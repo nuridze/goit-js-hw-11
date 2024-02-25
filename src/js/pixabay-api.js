@@ -1,5 +1,5 @@
 import iziToast from 'izitoast';
-import { searchImages } from 'pixabay-api' ;
+import { searchImages } from 'pixabay-api';
 import { hideLoader } from './render-functions';
 import { refs } from './render-functions';
 import { showLightBox } from './render-functions';
